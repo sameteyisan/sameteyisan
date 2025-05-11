@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm Samet Eyisan
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="350" height="250" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJleGN4Z2hnMWJldGU2b3doeGRiN3J6c3FrdWFyaHlrcTR3YXVvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding GIF" width="350" height="250" />
 </div>
 
 <p align="center">
